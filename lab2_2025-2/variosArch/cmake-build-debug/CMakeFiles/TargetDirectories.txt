@@ -1,0 +1,3 @@
+C:/Users/Vanessa/Documents/TP/lab2_2025-2/variosArch/cmake-build-debug/CMakeFiles/variosArch.dir
+C:/Users/Vanessa/Documents/TP/lab2_2025-2/variosArch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vanessa/Documents/TP/lab2_2025-2/variosArch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
