@@ -1,0 +1,3 @@
+C:/Users/Vanessa/Documents/TP/capopArreglos/erasmoOnichan/cmake-build-debug/CMakeFiles/erasmoOnichan.dir
+C:/Users/Vanessa/Documents/TP/capopArreglos/erasmoOnichan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vanessa/Documents/TP/capopArreglos/erasmoOnichan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
